@@ -1,0 +1,5 @@
+PySide2==5.15.2.1
+PyMsgBox==1.0.9
+pysqlite3==0.4.7
+regex==2022.9.13
+PyQt6==6.4.0
